@@ -6,7 +6,7 @@ import javax.swing.*;
  * @author: hegu
  * @time: 2024/1/22 22:00
  * @version: 1.0
- * @description: TODO
+ * @description: 享元模式测试
  */
 public class Client {
     public static void main(String[] args){
