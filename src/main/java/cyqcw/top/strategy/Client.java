@@ -1,8 +1,5 @@
 package cyqcw.top.strategy;
 
-import ch.qos.logback.core.joran.util.beans.BeanUtil;
-import org.apache.commons.beanutils.BeanUtils;
-
 /**
  * @author: hegu
  * @time: 2024/1/23 21:56
