@@ -42,7 +42,16 @@
             <artifactId>cglib</artifactId>
             <version>3.3.0</version>
         </dependency>
+
+        <!--  引入beanutils的依赖用于在使用copy方法实现对象的复制  -->
+        <dependency>
+            <groupId>commons-beanutils</groupId>
+            <artifactId>commons-beanutils</artifactId>
+            <version>1.9.4</version>
+        </dependency>
+
     </dependencies>
+
 
 
 </project>
